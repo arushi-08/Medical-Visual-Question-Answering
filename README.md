@@ -1,8 +1,6 @@
 # Transfer learning for Medical Visual Question Answering
 
-## CS2078
-
-## Setup
+## Experimental Setup
 Install [Miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install) ([Mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html)).
 
 Create conda environment:
